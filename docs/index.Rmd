@@ -10,7 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Date: May 27, 2020
 
-
 ```{r, echo=FALSE}
 library(leaflet)
 my_map <- leaflet() %>% 
