@@ -1,7 +1,6 @@
 ---
 title: "R Markdown With Leaflet"
 author: "Johnny Sandaire"
-date: ""
 output: html_document
 ---
 
